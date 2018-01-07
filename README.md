@@ -1,0 +1,2 @@
+# websocket_stress_test_demo
+基于pyhton第三方库ws4py及threadpool和Epool模型进行对websocket服务端实现压力测试
