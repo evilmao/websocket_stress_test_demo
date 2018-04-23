@@ -41,11 +41,6 @@ Test Object
 ### Test Result
 
 1. 对比结果如下
-   
-
-      
-
-## 对比结果如下
 ![](http://ww1.sinaimg.cn/large/8599e4cfly1fliwcp47ntj20ks09ujru.jpg)
 
 
