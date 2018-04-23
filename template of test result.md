@@ -38,11 +38,14 @@ Test Object
 - 测试行为：
   1.Instant_order(即时交易)
 
-###Test Result
+### Test Result
 
 1. 对比结果如下
    
 
       
 
-## 
+## 对比结果如下
+![](http://ww1.sinaimg.cn/large/8599e4cfly1fliwcp47ntj20ks09ujru.jpg)
+
+
